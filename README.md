@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2012-sum-of-beauty-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
