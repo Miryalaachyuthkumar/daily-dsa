@@ -6,14 +6,14 @@ class Solution {
         {
             fsum+=arr[i];
         }
-        if(fsum/k>= threshold )
+        if(fsum>= threshold*k )
         {
             c++;
         }
         for(int i = k;i<arr.length;i++)
         {
             fsum = fsum - arr[i-k]+arr[i];
-            if(fsum/k>=threshold)
+            if(fsum>=threshold*k)
             {
                 c++;
             }
