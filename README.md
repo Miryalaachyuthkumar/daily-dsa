@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
