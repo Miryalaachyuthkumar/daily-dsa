@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1052-grumpy-bookstore-owner](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1052-grumpy-bookstore-owner) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
