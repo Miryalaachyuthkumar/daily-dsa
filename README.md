@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
