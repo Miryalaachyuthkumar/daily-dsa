@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
