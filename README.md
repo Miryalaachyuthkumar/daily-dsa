@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1052-grumpy-bookstore-owner) |
+| [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -194,5 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
