@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
