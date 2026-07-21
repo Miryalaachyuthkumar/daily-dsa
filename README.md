@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1669-merge-in-between-linked-lists) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
