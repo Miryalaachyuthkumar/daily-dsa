@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
 ## Depth-First Search
