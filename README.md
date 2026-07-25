@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
