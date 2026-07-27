@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0848-shifting-letters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
