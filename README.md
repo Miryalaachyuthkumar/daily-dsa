@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3210-find-the-encrypted-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3210-find-the-encrypted-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
