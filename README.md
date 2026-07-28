@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1544-make-the-string-great) |
 | [3210-find-the-encrypted-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3210-find-the-encrypted-string) |
+| [3330-find-the-original-typed-string-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3330-find-the-original-typed-string-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
