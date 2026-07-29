@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
