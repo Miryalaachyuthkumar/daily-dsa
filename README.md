@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0728-self-dividing-numbers) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
