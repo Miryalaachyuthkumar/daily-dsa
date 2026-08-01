@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0728-self-dividing-numbers) |
