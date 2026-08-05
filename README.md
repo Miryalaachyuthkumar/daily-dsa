@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [2126-destroying-asteroids](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
