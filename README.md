@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
