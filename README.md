@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0739-daily-temperatures) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
