@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -411,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
