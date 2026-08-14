@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0018-4sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0278-first-bad-version) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
