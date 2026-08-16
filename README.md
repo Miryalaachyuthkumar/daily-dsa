@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0989-add-to-array-form-of-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
