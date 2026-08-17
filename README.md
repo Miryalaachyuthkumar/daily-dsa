@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2126-destroying-asteroids) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
