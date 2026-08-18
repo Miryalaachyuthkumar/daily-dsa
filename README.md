@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
