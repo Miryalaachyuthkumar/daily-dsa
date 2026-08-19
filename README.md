@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
