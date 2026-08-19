@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [2126-destroying-asteroids](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1310-xor-queries-of-a-subarray) |
+| [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
