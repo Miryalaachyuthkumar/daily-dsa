@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0875-koko-eating-bananas) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
