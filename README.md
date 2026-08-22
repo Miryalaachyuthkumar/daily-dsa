@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0728-self-dividing-numbers) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -494,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
