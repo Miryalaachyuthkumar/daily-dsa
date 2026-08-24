@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0503-next-greater-element-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
