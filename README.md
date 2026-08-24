@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
