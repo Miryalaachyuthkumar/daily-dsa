@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0739-daily-temperatures) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
