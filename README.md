@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0071-simplify-path) |
+| [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0326-power-of-three) |
