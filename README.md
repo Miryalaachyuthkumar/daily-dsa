@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0290-word-pattern) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
