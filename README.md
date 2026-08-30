@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0392-is-subsequence) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0326-power-of-three) |
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
