@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
