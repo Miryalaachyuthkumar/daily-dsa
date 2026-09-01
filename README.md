@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2126-destroying-asteroids) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3074-apple-redistribution-into-boxes) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
