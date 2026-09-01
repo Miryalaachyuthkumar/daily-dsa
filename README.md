@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0171-excel-sheet-column-number) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
