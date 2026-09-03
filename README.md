@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2126-destroying-asteroids) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
