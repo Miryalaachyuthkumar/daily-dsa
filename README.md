@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
