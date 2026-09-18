@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
