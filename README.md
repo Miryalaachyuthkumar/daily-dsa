@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
