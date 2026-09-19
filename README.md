@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -645,4 +646,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
