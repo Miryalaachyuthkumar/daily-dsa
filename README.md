@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1995-count-special-quadruplets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1995-count-special-quadruplets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
