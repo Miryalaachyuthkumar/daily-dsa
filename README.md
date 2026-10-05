@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0848-shifting-letters) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Depth-First Search
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0739-daily-temperatures) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
