@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0941-valid-mountain-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0941-valid-mountain-array) |
+| [0986-interval-list-intersections](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0905-sort-array-by-parity) |
+| [0986-interval-list-intersections](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -740,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0406-queue-reconstruction-by-height) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
