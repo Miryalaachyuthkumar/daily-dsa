@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1927-sum-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1260-shift-2d-grid) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3561-resulting-string-after-adjacent-removals) |
