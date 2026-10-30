@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3945-digit-frequency-score) |
