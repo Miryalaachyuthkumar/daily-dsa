@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0500-keyboard-row) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0645-set-mismatch) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
