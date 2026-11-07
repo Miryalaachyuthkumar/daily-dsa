@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
