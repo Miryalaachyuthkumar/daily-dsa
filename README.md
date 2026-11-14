@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
