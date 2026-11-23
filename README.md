@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 ## Ternary Search
 |  |
 | ------- |
