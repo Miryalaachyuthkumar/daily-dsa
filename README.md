@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0678-valid-parenthesis-string) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1227-airplane-seat-assignment-probability) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Depth-First Search
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1352-product-of-the-last-k-numbers) |
@@ -822,4 +824,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/0986-interval-list-intersections) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Miryalaachyuthkumar/daily-dsa/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
